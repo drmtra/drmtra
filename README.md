@@ -18,6 +18,10 @@
 
 - [Tutorial Active Directory Home Lab]()
 
+<h2>    Medium Blog:</h2>
+
+- [Active Directory Home Lab]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -28,6 +32,9 @@
 [twitter]: https://twitter.com/memduhtura
 [youtube]: https://www.youtube.com/channel/UCIOwsV_BEPx0iLbJnvpbMBw
 [linkedin]:https://www.linkedin.com/in/dr-memduh-tura-43bb50b4/
+
+
+
 
 <!--
 memduh tura
