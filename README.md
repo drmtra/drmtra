@@ -26,7 +26,7 @@
 
 
 [twitter]: https://twitter.com/memduhtura
-[youtube]: https://www.youtube.com/c/memduhtura
+[youtube]: https://www.youtube.com/memduhtura
 [linkedin]: https://www.linkedin.com/in/dr-memduh-tura-43bb50b4/
 
 <!--
