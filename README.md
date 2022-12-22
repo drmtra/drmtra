@@ -27,7 +27,7 @@
 
 [twitter]: https://twitter.com/memduhtura
 [youtube]: https://www.youtube.com/c/memduhtura
-[linkedin]: https://linkedin.com/in/memduhtura
+[linkedin]: https://www.linkedin.com/in/dr-memduh-tura-43bb50b4/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
