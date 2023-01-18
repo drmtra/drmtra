@@ -14,8 +14,9 @@
 
 
 <h2> Hacking Platforms Projects</h2>
-https://tryhackme.com/p/drmtra
-https://app.hackthebox.com/profile/875585
+
+-[TryHackme] (https://tryhackme.com/p/drmtra)
+-[HackTheBox](https://app.hackthebox.com/profile/875585)
   
 <h2>📺  YouTube Videos</h2>
 
