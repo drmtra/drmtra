@@ -21,7 +21,8 @@
   
 <h2>📺  YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab]()
+- [Zerologon Exploit (CVE-2020-1472)]()
+- [Eternal Blue (MS 17-010)]()
 
 <h2>    Medium Blog:</h2>
 
