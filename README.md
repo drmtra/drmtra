@@ -23,6 +23,7 @@
 
 - [Zerologon Exploit (CVE-2020-1472)]()
 - [Eternal Blue (MS 17-010)]()
+- [ChatGPT](https://youtu.be/AFtunQ_fqE0)
 
 <h2>    Medium Blog:</h2>
 
